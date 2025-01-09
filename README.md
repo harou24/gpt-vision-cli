@@ -25,7 +25,7 @@ Clone the repository, install the dependencies, and run:
 
 ## Configuration
 
-Edit the .env file in the root directory and add your OpenAI API key
+Copy **.env.example** to **.env** and set your OpenAI API key in the .env file.
 
 ### Build and run
 
